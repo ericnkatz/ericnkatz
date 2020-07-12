@@ -1,5 +1,5 @@
 ### 👋. Hello there! 
-I love UX/UI and Front End. I'm a Product person that heart.
+I love UX/UI and Front End. I'm a Product person at heart.
 
 💬  Ask me about Design Systems
 <!--
