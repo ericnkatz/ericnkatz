@@ -1,7 +1,7 @@
-### 💬 Ask me about Design Systems
+### 👋. Hello there! 
+I love UX/UI and Front End. I'm a Product person that heart.
 
-Find me at other places linked on [my website](https://katz.in)
-
+💬  Ask me about Design Systems
 <!--
 **ericnkatz/ericnkatz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
