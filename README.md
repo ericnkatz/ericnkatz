@@ -1,7 +1,7 @@
 ### 👋. Hello there! 
 I love UX/UI and Front End. I'm a Product person at heart.
 
-## 💬 Ask me about Design Systems
+#### 💬 Ask me about Design Systems
 <!--
 **ericnkatz/ericnkatz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
