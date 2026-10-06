@@ -27,11 +27,3 @@
     <td><strong>Ask me about</strong><br />UX, design systems, front-end architecture, or product thinking</td>
   </tr>
 </table>
-
-<details>
-<summary>One small fun fact</summary>
-<br />
-
-The commit log for this profile repo is me making a bunch of tiny tweaks because I just realized GitHub has a <em>Preview changes</em> tab. smh
-
-</details>
