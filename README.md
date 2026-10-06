@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/eric-profile-square.jpg" alt="Eric Katz smiling in front of a brick wall" width="150" height="150" />
-
 # Eric Katz
 
 ### Product-minded engineer · UX/UI · design systems
