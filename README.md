@@ -2,7 +2,7 @@
 
 # Eric Katz
 
-### Product-minded engineer · UX/UI · design systems
+### Product-minded engineer · UX/UI · design systems · Data
 
 <em>I make the web feel a little more human.</em>
 
