@@ -1,21 +1,37 @@
-### 👋. Hello there! 
+<div align="center">
 
-I love technology, UX/UI and Front End Engineering. I'm a Product person at heart.
-Feel free to reach out if you want to chat about User Experience, Design Systems or Product Management.
+<img src="./assets/eric-profile-square.jpg" alt="Eric Katz smiling in front of a brick wall" width="150" height="150" />
 
-⚡ Fun fact: The commit log for my profile repo is going to be me making a bunch of small tweaks because I just realized the web UI has a *Preview changes* tab. smh
+# Eric Katz
 
-<!--
-**ericnkatz/ericnkatz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Product-minded engineer · UX/UI · design systems
 
-Here are some ideas to get you started:
+<em>I make the web feel a little more human.</em>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+[![Website](https://img.shields.io/badge/katz.in-111827?style=flat-square&logo=googlechrome&logoColor=white)](https://katz.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericnkatz/)
+[![X](https://img.shields.io/badge/@ericnkatz-111827?style=flat-square&logo=x&logoColor=white)](https://x.com/ericnkatz)
+
+</div>
+
+<br />
+
+> I love technology, UX/UI, and front-end engineering. I’m a product person at heart — especially interested in the space where user experience, design systems, and product management meet.
+
+<table>
+  <tr>
+    <td><strong>Currently</strong><br />Engineering Manager @ <a href="https://www.nytimes.com/">The New York Times</a></td>
+    <td><strong>Previously</strong><br />Building products, teams, and systems at scale</td>
+    <td><strong>Ask me about</strong><br />UX, design systems, front-end architecture, or product thinking</td>
+  </tr>
+</table>
+
+<details>
+<summary>One small fun fact</summary>
+<br />
+
+The commit log for this profile repo is me making a bunch of tiny tweaks because I just realized GitHub has a <em>Preview changes</em> tab. smh
+
+</details>
