@@ -22,7 +22,7 @@
 <table>
   <tr>
     <td><strong>Currently</strong><br />Engineering Manager @ <a href="https://www.nytimes.com/">The New York Times</a></td>
-    <td><strong>Previously</strong><br />Building products, teams, and systems at scale</td>
+    <td><strong>Always</strong><br />Building products, teams, and systems at scale</td>
     <td><strong>Ask me about</strong><br />UX, design systems, experimentation, data visualization, BI tooling, or product thinking</td>
   </tr>
 </table>
