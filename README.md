@@ -17,7 +17,7 @@
 
 <br />
 
-> I love technology, UX/UI, and front-end engineering. I’m a product person at heart, with experience shaping experimentation programs, data visualizations, and business-intelligence tooling that help teams make better decisions. I’m currently an Engineering Manager at The New York Times and also lead the Data AI Center of Excellence, focused on governance, innovation, and unlocking agentic capabilities.
+> I love technology, UX/UI, and front-end engineering. I’m a product person at heart, with experience shaping experimentation programs, data visualizations, and business-intelligence tooling that help teams make better decisions. I’m currently an Engineering Manager at The New York Times and also lead the Data AI Center of Excellence, focused on governance, innovation, and unlocking agentic capabilities within NYT Data.
 
 <table>
   <tr>
