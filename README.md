@@ -8,10 +8,10 @@
 
 <br />
 
-[![Website](https://img.shields.io/badge/katz.in-111827?style=flat-square&logo=googlechrome&logoColor=white)](https://katz.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericnkatz/)
+[![Website · katz.in](https://img.shields.io/badge/katz.in-111827?style=flat-square&logo=googlechrome&logoColor=white)](https://katz.in)
+[![LinkedIn · ericnkatz](https://img.shields.io/badge/ericnkatz-111827?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericnkatz/)
 [![X](https://img.shields.io/badge/@ericnkatz-111827?style=flat-square&logo=x&logoColor=white)](https://x.com/ericnkatz)
-[![Bluesky](https://img.shields.io/badge/Bluesky-111827?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/katz.in)
+[![Bluesky · @katz.in](https://img.shields.io/badge/%40katz.in-111827?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/katz.in)
 
 </div>
 
